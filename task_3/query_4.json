@@ -1,0 +1,182 @@
+[
+  {
+    "id": 725,
+    "artist": "Lil Tecca",
+    "song": "Ransom",
+    "duration_ms": 131240,
+    "year": 2019,
+    "tempo": 179.974,
+    "genre": "hip hop"
+  },
+  {
+    "id": 913,
+    "artist": "JAY-Z",
+    "song": "Empire State Of Mind",
+    "duration_ms": 276920,
+    "year": 2009,
+    "tempo": 173.585,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1072,
+    "artist": "Kodak Black",
+    "song": "Tunnel Vision",
+    "duration_ms": 268186,
+    "year": 2017,
+    "tempo": 171.853,
+    "genre": "hip hop"
+  },
+  {
+    "id": 689,
+    "artist": "Eminem",
+    "song": "'Till I Collapse",
+    "duration_ms": 297786,
+    "year": 2002,
+    "tempo": 171.447,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1971,
+    "artist": "Eminem",
+    "song": "Lose Yourself - From \"8 Mile\" Soundtrack",
+    "duration_ms": 322226,
+    "year": 2004,
+    "tempo": 171.355,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1586,
+    "artist": "Eminem",
+    "song": "Crack A Bottle",
+    "duration_ms": 297520,
+    "year": 2009,
+    "tempo": 169.561,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1149,
+    "artist": "Polo G",
+    "song": "Pop Out (feat. Lil Tjay)",
+    "duration_ms": 166560,
+    "year": 2019,
+    "tempo": 168.112,
+    "genre": "hip hop"
+  },
+  {
+    "id": 204,
+    "artist": "Gorillaz",
+    "song": "Clint Eastwood",
+    "duration_ms": 340920,
+    "year": 2001,
+    "tempo": 167.953,
+    "genre": "hip hop"
+  },
+  {
+    "id": 523,
+    "artist": "Afroman",
+    "song": "Because I Got High",
+    "duration_ms": 197760,
+    "year": 2001,
+    "tempo": 166.01,
+    "genre": "hip hop"
+  },
+  {
+    "id": 881,
+    "artist": "JAY-Z",
+    "song": "Dirt Off Your Shoulder",
+    "duration_ms": 245173,
+    "year": 2003,
+    "tempo": 163.971,
+    "genre": "hip hop"
+  },
+  {
+    "id": 382,
+    "artist": "Eminem",
+    "song": "Sing For The Moment",
+    "duration_ms": 339546,
+    "year": 2002,
+    "tempo": 163.961,
+    "genre": "hip hop"
+  },
+  {
+    "id": 178,
+    "artist": "Mac Miller",
+    "song": "Donald Trump",
+    "duration_ms": 165908,
+    "year": 2011,
+    "tempo": 162.994,
+    "genre": "hip hop"
+  },
+  {
+    "id": 181,
+    "artist": "Playboi Carti",
+    "song": "Magnolia",
+    "duration_ms": 181812,
+    "year": 2017,
+    "tempo": 162.991,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1931,
+    "artist": "Juice WRLD",
+    "song": "Robbery",
+    "duration_ms": 240050,
+    "year": 2019,
+    "tempo": 159.966,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1626,
+    "artist": "Post Malone",
+    "song": "rockstar (feat. 21 Savage)",
+    "duration_ms": 218146,
+    "year": 2018,
+    "tempo": 159.801,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1165,
+    "artist": "Kent Jones",
+    "song": "Don't Mind",
+    "duration_ms": 198236,
+    "year": 2016,
+    "tempo": 158.777,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1091,
+    "artist": "6ix9ine",
+    "song": "GUMMO",
+    "duration_ms": 157643,
+    "year": 2018,
+    "tempo": 157.036,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1808,
+    "artist": "Dr. Dre",
+    "song": "I Need A Doctor",
+    "duration_ms": 283733,
+    "year": 2011,
+    "tempo": 155.826,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1925,
+    "artist": "Lil Uzi Vert",
+    "song": "XO Tour Llif3",
+    "duration_ms": 182706,
+    "year": 2017,
+    "tempo": 155.096,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1192,
+    "artist": "Post Malone",
+    "song": "Goodbyes (Feat. Young Thug)",
+    "duration_ms": 174960,
+    "year": 2019,
+    "tempo": 150.231,
+    "genre": "hip hop"
+  }
+]

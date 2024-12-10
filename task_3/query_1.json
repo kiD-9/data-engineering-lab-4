@@ -1,0 +1,137 @@
+[
+  {
+    "id": 735,
+    "artist": "Justin Timberlake",
+    "song": "Mirrors",
+    "duration_ms": 484146,
+    "year": 2013,
+    "tempo": 76.899,
+    "genre": "pop"
+  },
+  {
+    "id": 1257,
+    "artist": "Roger Sanchez",
+    "song": "Another Chance",
+    "duration_ms": 452906,
+    "year": 2000,
+    "tempo": 127.993,
+    "genre": "Dance/Electronic"
+  },
+  {
+    "id": 1918,
+    "artist": "Justin Timberlake",
+    "song": "What Goes Around.../...Comes Around (Interlude)",
+    "duration_ms": 448573,
+    "year": 2006,
+    "tempo": 76.0,
+    "genre": "pop"
+  },
+  {
+    "id": 879,
+    "artist": "Justin Timberlake",
+    "song": "LoveStoned / I Think She Knows (Interlude)",
+    "duration_ms": 444333,
+    "year": 2006,
+    "tempo": 121.243,
+    "genre": "pop"
+  },
+  {
+    "id": 55,
+    "artist": "Dirty Vegas",
+    "song": "Days Go By",
+    "duration_ms": 432146,
+    "year": 2002,
+    "tempo": 126.99,
+    "genre": "Dance/Electronic"
+  },
+  {
+    "id": 1311,
+    "artist": "Nio Garcia",
+    "song": "Te Boté - Remix",
+    "duration_ms": 417920,
+    "year": 2018,
+    "tempo": 96.507,
+    "genre": "latin"
+  },
+  {
+    "id": 502,
+    "artist": "Eminem",
+    "song": "Stan",
+    "duration_ms": 404106,
+    "year": 2000,
+    "tempo": 80.063,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1186,
+    "artist": "The Chemical Brothers",
+    "song": "Galvanize",
+    "duration_ms": 393813,
+    "year": 2005,
+    "tempo": 104.003,
+    "genre": "Dance/Electronic"
+  },
+  {
+    "id": 1630,
+    "artist": "Alicia Keys",
+    "song": "You Don't Know My Name",
+    "duration_ms": 366733,
+    "year": 2003,
+    "tempo": 167.078,
+    "genre": "pop, R&B"
+  },
+  {
+    "id": 1755,
+    "artist": "Lil' Kim",
+    "song": "Magic Stick",
+    "duration_ms": 359973,
+    "year": 2019,
+    "tempo": 92.98,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 1007,
+    "artist": "Drake",
+    "song": "Forever",
+    "duration_ms": 357706,
+    "year": 2009,
+    "tempo": 104.02,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 386,
+    "artist": "Daft Punk",
+    "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+    "duration_ms": 353893,
+    "year": 2013,
+    "tempo": 100.163,
+    "genre": "hip hop, Dance/Electronic"
+  },
+  {
+    "id": 682,
+    "artist": "Melanie C",
+    "song": "I Turn To You",
+    "duration_ms": 352173,
+    "year": 1999,
+    "tempo": 135.205,
+    "genre": "pop, Dance/Electronic"
+  },
+  {
+    "id": 897,
+    "artist": "Kendrick Lamar",
+    "song": "m.A.A.d city",
+    "duration_ms": 350120,
+    "year": 2012,
+    "tempo": 91.048,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1708,
+    "artist": "Erykah Badu",
+    "song": "Bag Lady",
+    "duration_ms": 348893,
+    "year": 2000,
+    "tempo": 151.181,
+    "genre": "hip hop, R&B"
+  }
+]

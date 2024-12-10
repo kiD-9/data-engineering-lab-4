@@ -1,0 +1,23 @@
+[
+  {
+    "category": "cosmetics",
+    "sum_quantity": 12042,
+    "min_quantity": 462,
+    "max_quantity": 1170,
+    "avg_quantity": 752.63
+  },
+  {
+    "category": "fruit",
+    "sum_quantity": 11239,
+    "min_quantity": 501,
+    "max_quantity": 1051,
+    "avg_quantity": 702.44
+  },
+  {
+    "category": "tools",
+    "sum_quantity": 13581,
+    "min_quantity": 334,
+    "max_quantity": 1019,
+    "avg_quantity": 754.5
+  }
+]

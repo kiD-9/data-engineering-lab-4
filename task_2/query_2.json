@@ -1,0 +1,42 @@
+[
+  {
+    "genre": "биография",
+    "avg_book_price": 2713.85
+  },
+  {
+    "genre": "детектив",
+    "avg_book_price": 2781.87
+  },
+  {
+    "genre": "детская литература",
+    "avg_book_price": 2830.92
+  },
+  {
+    "genre": "исторический роман",
+    "avg_book_price": 2834.97
+  },
+  {
+    "genre": "любовный роман",
+    "avg_book_price": 2734.0
+  },
+  {
+    "genre": "научная фантастика",
+    "avg_book_price": 2781.8
+  },
+  {
+    "genre": "приключения",
+    "avg_book_price": 2672.67
+  },
+  {
+    "genre": "роман",
+    "avg_book_price": 2769.86
+  },
+  {
+    "genre": "триллер",
+    "avg_book_price": 2809.1
+  },
+  {
+    "genre": "фэнтези",
+    "avg_book_price": 2744.76
+  }
+]

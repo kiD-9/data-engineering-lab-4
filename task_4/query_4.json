@@ -1,0 +1,177 @@
+[
+  {
+    "fromCity": "Хихон",
+    "avg_price": 84.7,
+    "count": 3
+  },
+  {
+    "fromCity": "Тирана",
+    "avg_price": 93.16,
+    "count": 3
+  },
+  {
+    "fromCity": "Аликанте",
+    "avg_price": 63.71,
+    "count": 3
+  },
+  {
+    "fromCity": "Фигерас",
+    "avg_price": 68.6,
+    "count": 2
+  },
+  {
+    "fromCity": "Тудела",
+    "avg_price": 30.83,
+    "count": 2
+  },
+  {
+    "fromCity": "Ташкент",
+    "avg_price": 89.0,
+    "count": 2
+  },
+  {
+    "fromCity": "Осера",
+    "avg_price": 53.72,
+    "count": 2
+  },
+  {
+    "fromCity": "Москва",
+    "avg_price": 46.83,
+    "count": 2
+  },
+  {
+    "fromCity": "Загреб",
+    "avg_price": 53.97,
+    "count": 2
+  },
+  {
+    "fromCity": "Ереван",
+    "avg_price": 87.81,
+    "count": 2
+  },
+  {
+    "fromCity": "Душанбе",
+    "avg_price": 68.54,
+    "count": 2
+  },
+  {
+    "fromCity": "Бишкек",
+    "avg_price": 54.08,
+    "count": 2
+  },
+  {
+    "fromCity": "Тарраса",
+    "avg_price": 90.29,
+    "count": 1
+  },
+  {
+    "fromCity": "София",
+    "avg_price": 12.41,
+    "count": 1
+  },
+  {
+    "fromCity": "Скопье",
+    "avg_price": 34.88,
+    "count": 1
+  },
+  {
+    "fromCity": "Санхенхо",
+    "avg_price": 34.28,
+    "count": 1
+  },
+  {
+    "fromCity": "Сантьяго-де-Компостела",
+    "avg_price": 22.0,
+    "count": 1
+  },
+  {
+    "fromCity": "Самора",
+    "avg_price": 42.79,
+    "count": 1
+  },
+  {
+    "fromCity": "Рига",
+    "avg_price": 16.99,
+    "count": 1
+  },
+  {
+    "fromCity": "Подгорица",
+    "avg_price": 56.54,
+    "count": 1
+  },
+  {
+    "fromCity": "Навалькарнеро",
+    "avg_price": 77.43,
+    "count": 1
+  },
+  {
+    "fromCity": "Мурсия",
+    "avg_price": 13.13,
+    "count": 1
+  },
+  {
+    "fromCity": "Махадаонда",
+    "avg_price": 66.68,
+    "count": 1
+  },
+  {
+    "fromCity": "Мадрид",
+    "avg_price": 31.36,
+    "count": 1
+  },
+  {
+    "fromCity": "Льейда",
+    "avg_price": 31.02,
+    "count": 1
+  },
+  {
+    "fromCity": "Лас-Росас",
+    "avg_price": 13.66,
+    "count": 1
+  },
+  {
+    "fromCity": "Куэнка",
+    "avg_price": 71.07,
+    "count": 1
+  },
+  {
+    "fromCity": "Камбадос",
+    "avg_price": 49.74,
+    "count": 1
+  },
+  {
+    "fromCity": "Гранада",
+    "avg_price": 47.77,
+    "count": 1
+  },
+  {
+    "fromCity": "Вроцлав",
+    "avg_price": 49.06,
+    "count": 1
+  },
+  {
+    "fromCity": "Вильявисиоса",
+    "avg_price": 115.75,
+    "count": 1
+  },
+  {
+    "fromCity": "Вильнюс",
+    "avg_price": 68.74,
+    "count": 1
+  },
+  {
+    "fromCity": "Виго",
+    "avg_price": 48.4,
+    "count": 1
+  },
+  {
+    "fromCity": "Афины",
+    "avg_price": 17.17,
+    "count": 1
+  },
+  {
+    "fromCity": "Авилес",
+    "avg_price": 32.96,
+    "count": 1
+  }
+]

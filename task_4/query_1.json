@@ -1,0 +1,112 @@
+[
+  {
+    "id": 78,
+    "name": "tasteful chisel",
+    "price": 21.564,
+    "quantity": 831,
+    "category": "tools",
+    "fromCity": "Тирана",
+    "isAvailable": 0,
+    "views": 99100,
+    "version": 14
+  },
+  {
+    "id": 171,
+    "name": "marvelous siding",
+    "price": 22.0,
+    "quantity": 530,
+    "category": "tools",
+    "fromCity": "Сантьяго-де-Компостела",
+    "isAvailable": 1,
+    "views": 84912,
+    "version": 12
+  },
+  {
+    "id": 197,
+    "name": "pretty hammer",
+    "price": 59.13,
+    "quantity": 334,
+    "category": "tools",
+    "fromCity": "Осера",
+    "isAvailable": 1,
+    "views": 57656,
+    "version": 11
+  },
+  {
+    "id": 123,
+    "name": "stylish facial cleanser",
+    "price": 48.399,
+    "quantity": 908,
+    "category": "cosmetics",
+    "fromCity": "Виго",
+    "isAvailable": 0,
+    "views": 51936,
+    "version": 10
+  },
+  {
+    "id": 151,
+    "name": "tasteful strawberry",
+    "price": 61.798,
+    "quantity": 638,
+    "category": "fruit",
+    "fromCity": "Бишкек",
+    "isAvailable": 1,
+    "views": 89171,
+    "version": 10
+  },
+  {
+    "id": 196,
+    "name": "delightful perfume",
+    "price": 48.3,
+    "quantity": 872,
+    "category": "cosmetics",
+    "fromCity": "Осера",
+    "isAvailable": 0,
+    "views": 85822,
+    "version": 9
+  },
+  {
+    "id": 100,
+    "name": "stylish makeup remover",
+    "price": 42.105,
+    "quantity": 1096,
+    "category": "cosmetics",
+    "fromCity": "Душанбе",
+    "isAvailable": 0,
+    "views": 6408,
+    "version": 8
+  },
+  {
+    "id": 165,
+    "name": "tasteful blueberry",
+    "price": 115.855,
+    "quantity": 1051,
+    "category": "fruit",
+    "fromCity": "Ереван",
+    "isAvailable": 1,
+    "views": 58837,
+    "version": 8
+  },
+  {
+    "id": 177,
+    "name": "gorgeous level",
+    "price": 45.98,
+    "quantity": 1019,
+    "category": "tools",
+    "fromCity": "Тирана",
+    "isAvailable": 1,
+    "views": 83081,
+    "version": 8
+  },
+  {
+    "id": 111,
+    "name": "superb peach",
+    "price": 16.51,
+    "quantity": 501,
+    "category": "fruit",
+    "fromCity": "Тудела",
+    "isAvailable": 1,
+    "views": 22845,
+    "version": 7
+  }
+]
